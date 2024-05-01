@@ -7,7 +7,7 @@ export default defineConfig({
     lib: {
       entry: {
         index: path.resolve(__dirname, "src/index.ts"),
-        scc: path.resolve(__dirname, "src/ssc/index.ts"),
+        ssc: path.resolve(__dirname, "src/ssc/index.ts"),
       },
       formats: ["cjs", "es"],
     },
