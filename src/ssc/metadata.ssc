@@ -1,0 +1,21 @@
+#VERSION:0.83;
+#TITLE:Abandoned Doll;
+#SUBTITLE:;
+#ARTIST:Aspid Cat;
+#GENRE:Hard Ragtime;
+#CREDIT:OutFox Serenity Volume 1;
+#MUSIC:Abandoned Doll.opus;
+#BANNER:Abandoned Doll-bn.png;
+#BACKGROUND:Abandoned Doll-bg.png;
+#JACKET:Abandoned Doll-jk.png;
+#CDTITLE:;
+#SAMPLESTART:55.957535;
+#SAMPLELENGTH:10.436600;
+#SELECTABLE:YES;
+#OFFSET:0.000;
+#BPMS:0.000=120.000
+,16.000=124.000
+;
+#STOPS:;
+#BGCHANGES:;
+#FGCHANGES:;
